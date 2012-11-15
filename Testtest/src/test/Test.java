@@ -12,7 +12,8 @@ public class Test {
 		//mer test
 		//testa annan konflikt
 		
-		//Nu skapar vi en konflikt
+		//Nu skapar vi en konflikt, lala
+		//Här har vi en konflikt
 	}
 
 }
