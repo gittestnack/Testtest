@@ -10,6 +10,8 @@ public class Test {
 //test
 		//mer test
 		//testa annan konflikt
+		
+		//Här har vi en konflikt
 	}
 
 }
