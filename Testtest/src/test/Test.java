@@ -9,6 +9,8 @@ public class Test {
 		// TODO Auto-generated method stub
 //test
 		//test conflict
+		//mer test
+		//testa annan konflikt
 	}
 
 }
