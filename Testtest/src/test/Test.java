@@ -11,6 +11,8 @@ public class Test {
 		//test conflict
 		//mer test
 		//testa annan konflikt
+		
+		//Nu skapar vi en konflikt
 	}
 
 }
